@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/JuniorAlvesbr/jogo-da-velha/static/css/main.8c0ff97f.chunk.css",
+    "main.js": "/JuniorAlvesbr/jogo-da-velha/static/js/main.49213753.chunk.js",
+    "main.js.map": "/JuniorAlvesbr/jogo-da-velha/static/js/main.49213753.chunk.js.map",
+    "runtime-main.js": "/JuniorAlvesbr/jogo-da-velha/static/js/runtime-main.e6beeb13.js",
+    "runtime-main.js.map": "/JuniorAlvesbr/jogo-da-velha/static/js/runtime-main.e6beeb13.js.map",
+    "static/js/2.bfec2d77.chunk.js": "/JuniorAlvesbr/jogo-da-velha/static/js/2.bfec2d77.chunk.js",
+    "static/js/2.bfec2d77.chunk.js.map": "/JuniorAlvesbr/jogo-da-velha/static/js/2.bfec2d77.chunk.js.map",
+    "index.html": "/JuniorAlvesbr/jogo-da-velha/index.html",
+    "static/css/main.8c0ff97f.chunk.css.map": "/JuniorAlvesbr/jogo-da-velha/static/css/main.8c0ff97f.chunk.css.map",
+    "static/js/2.bfec2d77.chunk.js.LICENSE.txt": "/JuniorAlvesbr/jogo-da-velha/static/js/2.bfec2d77.chunk.js.LICENSE.txt",
+    "static/media/O.2b38d8f8.svg": "/JuniorAlvesbr/jogo-da-velha/static/media/O.2b38d8f8.svg",
+    "static/media/X.d9fdcccf.svg": "/JuniorAlvesbr/jogo-da-velha/static/media/X.d9fdcccf.svg",
+    "static/media/buck.c80baebf.jpg": "/JuniorAlvesbr/jogo-da-velha/static/media/buck.c80baebf.jpg",
+    "static/media/facebook.a3827974.svg": "/JuniorAlvesbr/jogo-da-velha/static/media/facebook.a3827974.svg",
+    "static/media/github.d5c569cc.svg": "/JuniorAlvesbr/jogo-da-velha/static/media/github.d5c569cc.svg",
+    "static/media/instagram.8aa2760f.svg": "/JuniorAlvesbr/jogo-da-velha/static/media/instagram.8aa2760f.svg",
+    "static/media/linkedin.1ad14914.svg": "/JuniorAlvesbr/jogo-da-velha/static/media/linkedin.1ad14914.svg",
+    "static/media/logo-dark.5c6dc759.svg": "/JuniorAlvesbr/jogo-da-velha/static/media/logo-dark.5c6dc759.svg",
+    "static/media/logo-white.224fdbdc.svg": "/JuniorAlvesbr/jogo-da-velha/static/media/logo-white.224fdbdc.svg",
+    "static/media/twitter.30234618.svg": "/JuniorAlvesbr/jogo-da-velha/static/media/twitter.30234618.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6beeb13.js",
+    "static/js/2.bfec2d77.chunk.js",
+    "static/css/main.8c0ff97f.chunk.css",
+    "static/js/main.49213753.chunk.js"
+  ]
+}
